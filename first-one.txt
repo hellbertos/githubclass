@@ -1,0 +1,5 @@
+Here is my first line
+
+Second  line goes right here people
+
+This is the thrid line of the git class
