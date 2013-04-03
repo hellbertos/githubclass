@@ -2,6 +2,6 @@ Here is my first line
 
 Second  line goes right HERE  IT IS THE CHANGE here people
 
-This is the thrid line of the git class
+This is the thrid line of the git class... this class is here at SFSU
 
 ANd another line does not go here...  goes here so I can see... and here and here and here
